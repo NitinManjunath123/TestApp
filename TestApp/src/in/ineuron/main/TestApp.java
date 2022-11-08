@@ -6,6 +6,8 @@ public class TestApp {
 		String s1 = "name";
 		System.out.println(s1.length());
 
+		System.out.println(s1.toUpperCase());
+		
 	}
 
 }
