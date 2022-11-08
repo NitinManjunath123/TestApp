@@ -7,6 +7,8 @@ public class TestApp {
 		System.out.println(s1.length());
 
 		System.out.println(s1.toUpperCase());
+		System.out.println(s1.toLowerCase());
+		
 		
 	}
 
